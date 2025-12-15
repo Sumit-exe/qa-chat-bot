@@ -1,6 +1,6 @@
 ##Steps to setup project
 
-take a clone
+Take a clone
 
 open project and go to terminal inside backend folder
 
